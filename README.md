@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KiruthikaVijayamurugan
+- 👀 I’m interested in building inovative and user friendly software
+- 🌱 I’m currently learning Full stack developement 
+- 💞️ I’m looking to collaborate on individual and company related software developement
+- 📫 How to reach me @ kiruthivijay333@gmail.com
