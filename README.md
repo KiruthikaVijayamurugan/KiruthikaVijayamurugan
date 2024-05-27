@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kiruthika
 <img src="https://i.pinimg.com/564x/3f/2a/6d/3f2a6d8c5a8e59f89eacbbff2ff3a53b.jpg" width="163px" height="150px" align="right">
 
-- 👀 I’m interested in building inovative and user friendly software
+- 👀 I’m interested in building innovative and user friendly software
 - 🌱 I’m currently learning Full stack developement 
 - 💞️ I’m looking to collaborate on individual and company related software developement
 - 📫 How to reach me @ kiruthivijay333@gmail.com , [Linkedin](https://linkedin.com/in/kiruthika-vijayamurugan)
